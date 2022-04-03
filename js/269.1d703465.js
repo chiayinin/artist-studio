@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkartist_studio"]=self["webpackChunkartist_studio"]||[]).push([[269],{269:function(t,n,r){r.r(n),r.d(n,{default:function(){return c}});var u=r(252);function e(t,n){return(0,u.wg)(),(0,u.iD)("h1",null,"單一產品頁面")}var s=r(744);const i={},a=(0,s.Z)(i,[["render",e]]);var c=a}}]);
+//# sourceMappingURL=269.1d703465.js.map
